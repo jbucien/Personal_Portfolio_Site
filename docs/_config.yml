@@ -25,13 +25,10 @@ domain: jennabucien.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jennabucien.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jbucien
+linkedin_username: jennabucien
 
 header_pages:
 - portfolio.md
-
-social_links:
-  - linkedin: jbucien
-  - github: jbucien
 
 # Build settings
 theme: minima
